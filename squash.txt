@@ -1,0 +1,3 @@
+squash print 1
+squash print 2
+squash print 3
